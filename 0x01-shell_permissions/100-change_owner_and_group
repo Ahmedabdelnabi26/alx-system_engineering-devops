@@ -1,2 +1,2 @@
-#!/chmod
+#!/bin/bash
 chown vincent:staff *
